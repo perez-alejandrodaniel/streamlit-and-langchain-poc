@@ -1,5 +1,6 @@
 .env
 .venv
 artifacts/*
+!artifacts/.dummy
 chat_history.csv
 uploaded_files.csv
