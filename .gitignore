@@ -1,0 +1,5 @@
+.env
+.venv
+artifacts/*
+chat_history.csv
+uploaded_files.csv
